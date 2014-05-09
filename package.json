@@ -60,7 +60,6 @@
     "glob": "~3.2.8",
     "stylus": "~0.42.2",
     "styl": "~0.2.7",
-    "node-sass": "~0.8.1",
     "less": "~1.7.0"
   },
   "devDependencies": {
